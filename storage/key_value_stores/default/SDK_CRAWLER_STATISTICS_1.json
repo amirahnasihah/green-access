@@ -1,0 +1,52 @@
+{
+  "requestsFinished": 0,
+  "requestsFailed": 1,
+  "requestsRetries": 1,
+  "requestsFailedPerMinute": 9,
+  "requestsFinishedPerMinute": 0,
+  "requestMinDurationMillis": null,
+  "requestMaxDurationMillis": 0,
+  "requestTotalFailedDurationMillis": 1658,
+  "requestTotalFinishedDurationMillis": 0,
+  "crawlerStartedAt": "2025-09-25T07:43:03.966Z",
+  "crawlerFinishedAt": "2025-09-25T07:43:10.485Z",
+  "statsPersistedAt": "2025-09-25T07:43:10.486Z",
+  "crawlerRuntimeMillis": 6631,
+  "crawlerLastStartTimestamp": 1758786183855,
+  "requestRetryHistogram": [
+    null,
+    null,
+    null,
+    1
+  ],
+  "statsId": 1,
+  "requestAvgFailedDurationMillis": 1658,
+  "requestAvgFinishedDurationMillis": null,
+  "requestTotalDurationMillis": 1658,
+  "requestsTotal": 1,
+  "requestsWithStatusCode": {
+    "200": 4
+  },
+  "errors": {
+    "file:///Users/amirah/Documents/amirahosbr/learning/green-access/dist/pipeline.js:163:53": {
+      "missing error code": {
+        "ReferenceError": {
+          "require is not defined": {
+            "count": 1
+          }
+        }
+      }
+    }
+  },
+  "retryErrors": {
+    "file:///Users/amirah/Documents/amirahosbr/learning/green-access/dist/pipeline.js:163:53": {
+      "missing error code": {
+        "ReferenceError": {
+          "require is not defined": {
+            "count": 3
+          }
+        }
+      }
+    }
+  }
+}
